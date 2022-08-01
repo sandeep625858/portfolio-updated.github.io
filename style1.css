@@ -1,0 +1,147 @@
+.topnav{
+  background-color: red;
+  height:2rem;
+  text-align:end;
+  padding:1rem;
+}
+.topnav a{
+  margin-left: 1rem;
+  margin-right: 1rem;
+  color:black;
+  font-size: 1.5rem;
+}
+.topnav a:hover{
+  cursor: pointer;
+  color:white;
+}
+.pic{
+  height:20rem;
+  width:20rem;
+  float:right;
+  border-radius: 50%;
+}
+#home h3{
+  font-size: 3rem;
+  position: relative;
+  top:10rem;
+  color:blueviolet;
+}
+#home{
+  position: relative;
+  height:50rem;
+  padding: 2rem;
+  background-image: url('https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d29ya3NwYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#home h4{
+  font-size: 2rem;
+  position: absolute;
+  top:23rem;
+}
+#about{
+  background-image: url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-030.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top:-2.8rem;
+  height:45rem;
+  padding: 2rem;
+}
+#about h1{
+  font-size: 4rem;
+  text-decoration: underline;
+  color:blue;
+}
+#about h2{
+  font-size: 3rem;
+  color:aqua;
+  text-decoration: underline;
+}
+.tech{
+  font-size: 1.5rem;
+}
+#about h4{
+  font-size: 1.5rem;
+  position: relative;
+  left:1rem;
+}
+#education{
+  background-image: url('https://www.thebalancecareers.com/thmb/3TXSZvKKQXcWu3Zu3qU8ag158MU=/3864x2577/filters:fill(auto,1)/school-books-on-desk--education-concept-871454068-5b548900c9e77c005b04fc8c.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top:-2.8rem;
+  padding: 2rem;
+  height:40rem;
+}
+#education h1{
+  position: relative;
+  top:6rem;
+  font-size: 4rem;
+  text-decoration: underline;
+  color:blue;
+}
+.edu{
+  position: relative;
+  top:4rem;
+  font-size: 1.5rem;
+}
+#project{
+  background-image: url('https://www.interviewbit.com/blog/wp-content/uploads/2022/01/Web-Development-Projects-1-800x391.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top:-2.8rem;
+  padding: 2rem;
+  height:50rem;
+}
+#project h1{
+  font-size: 4rem;
+  text-decoration: underline;
+  color:blue;
+}
+#project table{
+  position: relative;
+  left:30%;
+  width:50rem;
+  text-align: center;
+}
+th{
+  background-color: yellow;
+}
+td{
+  background-color: aquamarine;
+  color: blueviolet;
+}
+.name{
+  text-align: left;
+}
+#contact{
+  background-image: url('https://media.istockphoto.com/photos/-picture-id1311934969?k=20&m=1311934969&s=612x612&w=0&h=ftaxrSpkUB_ftSu-Zcxp44C1pBpxntMzNFjf5rcXPkw=');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top:-2.8rem;
+  padding: 2rem;
+  height:50rem;
+}
+#contact h1{
+  font-size: 4rem;
+  text-decoration: underline;
+  color:blue;
+}
+#contact h3{
+  font-size: 2rem;
+  color:aqua;
+  text-align: center;
+}
+#contact img{
+  height:3rem;
+  width:3rem;
+  border-radius: 50%;
+  margin-left: 15px;
+  position: relative;
+  left:35rem;
+  top:25px;
+}
