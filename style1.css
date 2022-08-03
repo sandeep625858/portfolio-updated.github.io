@@ -145,3 +145,6 @@ td{
   left:35rem;
   top:25px;
 }
+html {
+  scroll-behavior: smooth;
+}
